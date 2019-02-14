@@ -13,7 +13,7 @@ button {
     position: relative;
     height: 36px;
     margin: 0;
-    min-width: 64px;
+    min-width: 63px;
     padding: 0 16px;
     display: inline-block;
     font-family: "Roboto","Helvetica","Arial",sans-serif;
