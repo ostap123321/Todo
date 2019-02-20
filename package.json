@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "webpack-dev-server --inline --hot --content-base ./public",
+    "heroku-postbuild": "webpack --config webpack.prod.js",
     "build": "webpack -p"
   },
   "dependencies": {
